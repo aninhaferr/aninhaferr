@@ -1,6 +1,10 @@
 Oi sou a Ana Julia Ferrari
+
+
 estou estudando no alura 
+
 estou me desenvolvendo 
+
 utilizo esse espaço para minha organização e para compartilhar meus projetos desenvolvidos 
 
 
